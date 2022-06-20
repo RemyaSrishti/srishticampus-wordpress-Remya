@@ -1,0 +1,4 @@
+.dashicons-star-filled:before {
+    content: "\f155";
+    color: orange !important;
+}
