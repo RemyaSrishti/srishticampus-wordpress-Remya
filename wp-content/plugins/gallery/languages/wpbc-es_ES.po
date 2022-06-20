@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Basic Crud\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-22 11:11+0200\n"
+"PO-Revision-Date: 2018-06-22 19:18+0000\n"
+"Last-Translator: demo <demo@soflyy.com>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: wp-basic-crud.php:4
+msgid ""
+"This plugin to create custom contact list-tables from database using "
+"WP_List_Table class."
+msgstr ""
+"Este plugin es para crear tablas de listas de contactos personalizadas a "
+"partir de la base de datos utilizando la clase WP_List_Table."
+
+#: wp-basic-crud.php:136
+msgid "Edit"
+msgstr "Editar"
+
+#: wp-basic-crud.php:137
+msgid "Delete"
+msgstr "Eliminar"
+
+#: wp-basic-crud.php:159
+msgid "Name"
+msgstr "Nombre"
+
+#: wp-basic-crud.php:160
+msgid "Last Name"
+msgstr "Apellidos"
+
+#: wp-basic-crud.php:161
+msgid "E-Mail"
+msgstr "E-mail"
+
+#: wp-basic-crud.php:162
+msgid "Phone"
+msgstr "Teléfono"
+
+#: wp-basic-crud.php:163
+msgid "Address"
+msgstr "Dirección"
+
+#: wp-basic-crud.php:164
+msgid "Notes"
+msgstr "Notas"
+
+#: wp-basic-crud.php:247 wp-basic-crud.php:248 wp-basic-crud.php:271
+msgid "Contacts"
+msgstr "Contactos"
+
+#: wp-basic-crud.php:250 wp-basic-crud.php:272
+msgid "Add new"
+msgstr "Añadir nuevo"
+
+#: wp-basic-crud.php:265
+#, php-format
+msgid "Items deleted: %d"
+msgstr "Contactos eliminados: %d"
+
+#: wp-basic-crud.php:317
+msgid "Item was successfully saved"
+msgstr "Contacto guardado satisfactoriamente"
+
+#: wp-basic-crud.php:319
+msgid "There was an error while saving item"
+msgstr "Hubo un error al guardar el contacto"
+
+#: wp-basic-crud.php:324
+msgid "Item was successfully updated"
+msgstr "Contacto actualizado satisfactoriamente"
+
+#: wp-basic-crud.php:326
+msgid "There was an error while updating item"
+msgstr "Hubo un error al actualizar el contacto"
+
+#: wp-basic-crud.php:341
+msgid "Item not found"
+msgstr "Contacto no encontrado"
+
+#: wp-basic-crud.php:347
+msgid "Contact data"
+msgstr "Datos del contacto"
+
+#: wp-basic-crud.php:352
+msgid "Contact"
+msgstr "Contacto"
+
+#: wp-basic-crud.php:353
+msgid "back to list"
+msgstr "volver al listado"
+
+#: wp-basic-crud.php:373
+msgid "Save"
+msgstr "Guardar"
+
+#: wp-basic-crud.php:391
+msgid "Name:"
+msgstr "Nombre:"
+
+#: wp-basic-crud.php:400
+msgid "Last Name:"
+msgstr "Apellidos:"
+
+#: wp-basic-crud.php:409
+msgid "E-Mail:"
+msgstr "E-Mail:"
+
+#: wp-basic-crud.php:418
+msgid "Phone:"
+msgstr "Teléfono:"
+
+#: wp-basic-crud.php:427
+msgid "Address:"
+msgstr "Dirección:"
+
+#: wp-basic-crud.php:431 wp-basic-crud.php:440
+msgid "Maximum 250 characters"
+msgstr "Máximo 250 caracteres"
+
+#: wp-basic-crud.php:436
+msgid "Notes:"
+msgstr "Notas:"
+
+#: wp-basic-crud.php:453
+msgid "Name is required"
+msgstr "El nombre es requerido"
+
+#: wp-basic-crud.php:454
+msgid "Last Name is required"
+msgstr "Los apellidos son requeridos"
+
+#: wp-basic-crud.php:455
+msgid "E-Mail is in wrong format"
+msgstr "El e-mail tiene un formato erróneo"
+
+#: wp-basic-crud.php:457
+msgid "Phone can not be less than zero"
+msgstr "El teléfono no puede ser menor que cero"
+
+#: wp-basic-crud.php:458
+msgid "Phone must be number"
+msgstr "El teléfono tiene que ser númerico"
